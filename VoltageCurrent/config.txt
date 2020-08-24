@@ -1,0 +1,8 @@
+default robotcomm log path: '/home/airobot/log/robotcomm'
+figure size: '16' * '5' # 画布大小若非必要请勿修改
+figure dpi: '500'
+maximum voltage: '35'
+minimum voltage: '15'
+maximum current: '8'
+minimum current: '-6'
+# 请在每行单引号之间修改数值

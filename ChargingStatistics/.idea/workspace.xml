@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7c6050bf-2d5e-4271-969b-2a7d45fcc83b" name="Default Changelist" comment="merge display with multiprocessing optimize" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JupyterTrust" id="25dce169-96c4-4e89-8c61-40efa12221a3" />
+  <component name="ProjectId" id="1gLGa8oTkdSM1bvMM4s3TAptowJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.charge_tool">
+    <configuration name="DataSeparate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ChargingStatistics" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataSeparate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DataTogether" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ChargingStatistics" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTogether.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="charge_tool" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ChargingStatistics" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/charge_tool.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.charge_tool" />
+        <item itemvalue="Python.DataTogether" />
+        <item itemvalue="Python.DataSeparate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c6050bf-2d5e-4271-969b-2a7d45fcc83b" name="Default Changelist" comment="" />
+      <created>1597886520949</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597886520949</updated>
+      <workItem from="1597886522739" duration="4116000" />
+      <workItem from="1597890839994" duration="4035000" />
+    </task>
+    <task id="LOCAL-00001" summary="multiprocessing optimize">
+      <created>1597890681172</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597890681172</updated>
+    </task>
+    <task id="LOCAL-00002" summary="optimize over">
+      <created>1597894097966</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597894097966</updated>
+    </task>
+    <task id="LOCAL-00003" summary="merge display with multiprocessing optimize">
+      <created>1597894268550</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597894268550</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="multiprocessing optimize" />
+    <MESSAGE value="optimize over" />
+    <MESSAGE value="merge display with multiprocessing optimize" />
+    <option name="LAST_COMMIT_MESSAGE" value="merge display with multiprocessing optimize" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="916" height="295" key="GridCell.Tab.0.bottom" timestamp="1597916139219">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state width="916" height="295" key="GridCell.Tab.0.bottom/0.0.1536.960/-1920.-634.1920.1080@-1920.-634.1920.1080" timestamp="1597894130952" />
+    <state width="1494" height="295" key="GridCell.Tab.0.bottom/0.23.1536.859/-1920.-611.1920.1057@-1920.-611.1920.1057" timestamp="1597889534135" />
+    <state width="1494" height="295" key="GridCell.Tab.0.bottom/0.23.1536.937/-1920.-611.1920.979@-1920.-611.1920.979" timestamp="1597891467058" />
+    <state width="916" height="295" key="GridCell.Tab.0.bottom/0.23.1536.937@0.23.1536.937" timestamp="1597916139219" />
+    <state width="916" height="295" key="GridCell.Tab.0.center" timestamp="1597916139218">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state width="916" height="295" key="GridCell.Tab.0.center/0.0.1536.960/-1920.-634.1920.1080@-1920.-634.1920.1080" timestamp="1597894130950" />
+    <state width="1494" height="295" key="GridCell.Tab.0.center/0.23.1536.859/-1920.-611.1920.1057@-1920.-611.1920.1057" timestamp="1597889534134" />
+    <state width="1494" height="295" key="GridCell.Tab.0.center/0.23.1536.937/-1920.-611.1920.979@-1920.-611.1920.979" timestamp="1597891467057" />
+    <state width="916" height="295" key="GridCell.Tab.0.center/0.23.1536.937@0.23.1536.937" timestamp="1597916139218" />
+    <state width="916" height="295" key="GridCell.Tab.0.left" timestamp="1597916139218">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state width="916" height="295" key="GridCell.Tab.0.left/0.0.1536.960/-1920.-634.1920.1080@-1920.-634.1920.1080" timestamp="1597894130949" />
+    <state width="1494" height="295" key="GridCell.Tab.0.left/0.23.1536.859/-1920.-611.1920.1057@-1920.-611.1920.1057" timestamp="1597889534133" />
+    <state width="1494" height="295" key="GridCell.Tab.0.left/0.23.1536.937/-1920.-611.1920.979@-1920.-611.1920.979" timestamp="1597891467057" />
+    <state width="916" height="295" key="GridCell.Tab.0.left/0.23.1536.937@0.23.1536.937" timestamp="1597916139218" />
+    <state width="916" height="295" key="GridCell.Tab.0.right" timestamp="1597916139218">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state width="916" height="295" key="GridCell.Tab.0.right/0.0.1536.960/-1920.-634.1920.1080@-1920.-634.1920.1080" timestamp="1597894130951" />
+    <state width="1494" height="295" key="GridCell.Tab.0.right/0.23.1536.859/-1920.-611.1920.1057@-1920.-611.1920.1057" timestamp="1597889534134" />
+    <state width="1494" height="295" key="GridCell.Tab.0.right/0.23.1536.937/-1920.-611.1920.979@-1920.-611.1920.979" timestamp="1597891467058" />
+    <state width="916" height="295" key="GridCell.Tab.0.right/0.23.1536.937@0.23.1536.937" timestamp="1597916139218" />
+    <state width="1494" height="278" key="GridCell.Tab.1.bottom" timestamp="1597890750782">
+      <screen x="-1920" y="-611" width="1920" height="979" />
+    </state>
+    <state width="1494" height="278" key="GridCell.Tab.1.bottom/0.23.1536.937/-1920.-611.1920.979@-1920.-611.1920.979" timestamp="1597890750782" />
+    <state width="1494" height="278" key="GridCell.Tab.1.center" timestamp="1597890750781">
+      <screen x="-1920" y="-611" width="1920" height="979" />
+    </state>
+    <state width="1494" height="278" key="GridCell.Tab.1.center/0.23.1536.937/-1920.-611.1920.979@-1920.-611.1920.979" timestamp="1597890750781" />
+    <state width="1494" height="278" key="GridCell.Tab.1.left" timestamp="1597890750780">
+      <screen x="-1920" y="-611" width="1920" height="979" />
+    </state>
+    <state width="1494" height="278" key="GridCell.Tab.1.left/0.23.1536.937/-1920.-611.1920.979@-1920.-611.1920.979" timestamp="1597890750780" />
+    <state width="1494" height="278" key="GridCell.Tab.1.right" timestamp="1597890750782">
+      <screen x="-1920" y="-611" width="1920" height="979" />
+    </state>
+    <state width="1494" height="278" key="GridCell.Tab.1.right/0.23.1536.937/-1920.-611.1920.979@-1920.-611.1920.979" timestamp="1597890750782" />
+    <state x="-1613" y="-509" key="MergeDialog" timestamp="1597894314836">
+      <screen x="-1920" y="-611" width="1920" height="979" />
+    </state>
+    <state x="-1613" y="-509" key="MergeDialog/0.23.1536.937/-1920.-611.1920.979@-1920.-611.1920.979" timestamp="1597894314836" />
+    <state x="-1361" y="-355" key="MultipleFileMergeDialog" timestamp="1597894314898">
+      <screen x="-1920" y="-611" width="1920" height="979" />
+    </state>
+    <state x="-1361" y="-355" key="MultipleFileMergeDialog/0.23.1536.937/-1920.-611.1920.979@-1920.-611.1920.979" timestamp="1597894314898" />
+    <state x="-875" y="-357" key="Vcs.Push.Dialog.v2" timestamp="1597894320374">
+      <screen x="-1920" y="-611" width="1920" height="979" />
+    </state>
+    <state x="-875" y="-354" key="Vcs.Push.Dialog.v2/0.0.1536.960/-1920.-634.1920.1080@-1920.-634.1920.1080" timestamp="1597894129525" />
+    <state x="-875" y="-357" key="Vcs.Push.Dialog.v2/0.23.1536.937/-1920.-611.1920.979@-1920.-611.1920.979" timestamp="1597894320374" />
+    <state x="-950" y="-634" width="950" height="1080" key="dock-window-1" timestamp="1597892450251">
+      <screen x="-1920" y="-634" width="1920" height="1002" />
+    </state>
+    <state x="-1920" y="-634" width="958" height="1080" key="dock-window-1/0.0.1536.960/-1920.-634.1920.1080@-1920.-634.1920.1080" timestamp="1597887723983" />
+    <state x="-1920" y="-634" width="1920" height="1080" key="dock-window-1/0.23.1536.859/-1920.-611.1920.1057@-1920.-611.1920.1057" timestamp="1597888719629" />
+    <state x="-950" y="-634" width="950" height="1080" key="dock-window-1/0.23.1536.937/-1920.-634.1920.1002@-1920.-634.1920.1002" timestamp="1597892450251" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ChargingStatistics$DataTogether.coverage" NAME="DataTogether Coverage Results" MODIFIED="1597893613776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ChargingStatistics$DataSeparate.coverage" NAME="DataSeparate Coverage Results" MODIFIED="1597887885669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ChargingStatistics$charge_tool.coverage" NAME="charge_tool Coverage Results" MODIFIED="1597893822419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

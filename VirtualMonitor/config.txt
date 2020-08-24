@@ -1,0 +1,24 @@
+default file path: '/home/airobot/log/planner'
+map path: '/Users/stanley/airobot_display/maps' (essential)
+==============All the log paths are unable to be modified in running=================
+planner log path: '/Users/stanley/airobot_display/log/planner' with identifier 'planner'
+robotcom log path: '/home/airobot/log/robotcomm' with identifier 'robotcomm'
+slam log path: '/home/airobot/log/SLAM' with identifier 'slamNode'
+middle_end log path: '/home/airobot/commander/modules/middle_end/log' with identifier 'middle_end'
+# empty line
+default map to show: '11002'
+default show mode: 'planner' (planner/shadow)
+default auto clear time: '60' seconds
+# empty line
+planner mode log-writing: '1' log(s) per second
+planner mode speed 1x means playing: '1' second(s) per second
+shadow mode log-writing (approximately): '162' log(s) per second
+shadow mode speed 1x means playing: '0.125' second(s) per second
+shadow mode external variables file path: '~/config/xxx.txt'
+# empty line
+max image refresh rate: '64' frames per second (depend on the graphic card on your computer)
+robot size in centimeter: '140' * '100'
+plot size: '8' * '6'  # 若非必要请勿修改
+
+# 请在每行的单引号之间修改数据
+# DO NOT remove empty lines
